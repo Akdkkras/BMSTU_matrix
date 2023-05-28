@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/BMSTU_matrix_tests.dir/example_test.cpp.o -o BMSTU_matrix_tests  lib/libgtest_main.a lib/libgtest.a 
